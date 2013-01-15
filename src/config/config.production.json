@@ -1,0 +1,10 @@
+{
+    "database": {
+    "host": "adslotdevdbinstance.csa6tq2wmaey.us-west-1.rds.amazonaws.com",
+    "database": "premium_ci_develop",
+    "user":"premiumci",
+    "password":"premiumci!"
+
+
+}
+}
